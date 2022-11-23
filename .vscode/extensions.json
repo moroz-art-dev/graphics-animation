@@ -1,0 +1,7 @@
+{
+  // Recommended extensions
+  "recommendations": ["stylelint.vscode-stylelint"],
+
+  // Unwanted extensions
+  "unwantedRecommendations": []
+}
